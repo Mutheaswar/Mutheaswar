@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Belgrade, Serbia
+*   🌍  I'm based in Madurai, India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='#/'>Portfolio</a>
 *   🧠  Currently learning TypeScript
-*   🤝  I would welcome the chance to work in a web development role and am ready to contribute my skills and expertise to any team that values innovation and creativity in this area
 
 ### Skills
 
